@@ -1,0 +1,68 @@
+.
+|____base
+| |____config.py
+| |____Data
+| | |____.gitignore
+| | |____ci_per_line.txt
+| | |____ci_per_line_after_cut.txt
+| | |____cut_all.json
+| | |____num.json
+| | |____rules.json
+| | |____sim.json
+| | |____temp.py
+| | |____title_lib.txt
+| | |____tone.json
+| | |____tone.txt
+| | |____vocab.txt
+| | |____vowel.json
+| | |____vowel.txt
+| |____debug.py
+| |____doc.sh
+| |____evaluation.py
+| |____eval_example.py
+| |____ioHelper.py
+| |____iterator.py
+| |____main.py
+| |____models.py
+| |____rules.py
+| |____run.sh
+| |____show.py
+| |____statistics_hardcoded.py
+| |____temp.py
+| |____tobe.py
+| |____toneVowelHelper.py
+| |____trainer.py
+| |____userHelper.py
+| |____utils.py
+| |____version.sh
+| |____word_seg.py
+|____documentation.md
+|____examples
+| |____testing
+| | |____different semantic different z
+| | | |____config.py
+| | | |____main.py
+| | |____different z for same cipai
+| | | |____config.py
+| | | |____main.py
+| | |____Metrical_Performances
+| | | |____config.py
+| | | |____main.py
+| | |____same z for different Cipai
+| | | |____config.py
+| | | |____main.py
+| |____training
+| | |____blind
+| | | |____config.py
+| | | |____main.py
+| | |____guided
+| | | |____config.py
+| | | |____main.py
+|____trained_paramaters
+| |____config.py
+| |____main.py
+| |____saved_models
+| | |____.DS_Store
+| | |____100_128_200_24_0.500_ALL_DEC_RNN_NEXT_NEXT_is_dec_embedding
+| | | |____.DS_Store
+| | | |____Vrae_4_10239.pth

@@ -16,7 +16,7 @@ We crawl a dataset from a Chinese poetry website: https://sou-yun.com/ 95% of th
 Training the model:(in the base directory)
 
 ```
-1、modify the parameters in config.py. Change the parameter is_train from the default False to True
+1、modify the parameters in config.py.change the parameter is_train from the default False to True
 2、python main.py
 ```
 

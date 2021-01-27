@@ -24,7 +24,7 @@ Start Ci generation interface:
 
 ```
 run /base/generate_ci_interface.py to start the interface
-python -m generate_ci_interface -local_port [接口号]
+python -m generate_ci_interface -local_port [interface number]
 tips:the interface number needs to be between 30011-30020.
 ```
 
